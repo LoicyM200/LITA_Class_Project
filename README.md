@@ -6,6 +6,20 @@ This is where I documented my first project while learning Data  Analysis with t
 
 ### Project Title: LITA Data Analysis Class 
 
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparations](#data-leaning-and-preparations)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
+
 ### Project Overview: 
 ---
 This Data Analysis Class aims at equiping young ladies with the basic technological knowledge they need in the emergiging world of technology.
@@ -46,4 +60,6 @@ SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ~~~
 
-### Data isualization
+### Data Visualization
+
+😄 💻 🖱️
