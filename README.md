@@ -45,3 +45,5 @@ This is where we include some basic lines of code, queries or DAX expressions us
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ~~~
+
+### Data isualization
