@@ -61,5 +61,9 @@ WHERE CONDITION = TRUE
 ~~~
 
 ### Data Visualization
+![Excel Report Chart1](https://github.com/user-attachments/assets/2348483e-2ffd-470c-b0e0-10fd58ade9ea)
+![Excel Report Chart2](https://github.com/user-attachments/assets/52a54465-3b77-4354-9a09-3d693af0c87f)
 
-😄 💻 🖱️
+😄 💻 🖱️![Pivot Table1](https://github.com/user-attachments/assets/70eac9eb-79c2-4382-81c7-31962f729d9b)
+![Pivot Table2](https://github.com/user-attachments/assets/31eabc80-649e-4b13-884a-ebe58887c8bb)
+
