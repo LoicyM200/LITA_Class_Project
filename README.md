@@ -67,3 +67,5 @@ WHERE CONDITION = TRUE
 😄 💻 🖱️![Pivot Table1](https://github.com/user-attachments/assets/70eac9eb-79c2-4382-81c7-31962f729d9b)
 ![Pivot Table2](https://github.com/user-attachments/assets/31eabc80-649e-4b13-884a-ebe58887c8bb)
 
+![Text Cleaning_PowerBI1](https://github.com/user-attachments/assets/6fd9a0f1-d0dd-4f26-bda9-c3b6b9bcce56)
+![Text Cleaning_PowerBI2](https://github.com/user-attachments/assets/a260ddad-dfe8-450e-958d-d195800fcbee)
